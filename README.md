@@ -1,4 +1,4 @@
-# ¡Hola! Soy Alanie Castillo 👋 💻
+# ¡Hola! Soy Alanie Castillo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanie-castillo-20b49042b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castilloalanie3@gmail.com)
@@ -6,16 +6,16 @@
 
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 Soy **Desarrolladora Web Full Stack Junior** ubicada en Puntarenas, Costa Rica 🇨🇷. Me especializo en la construcción de aplicaciones web dinámicas, adaptativas y semánticas, integrando herramientas de Inteligencia Artificial para optimizar flujos de trabajo y aumentar la eficiencia técnica.
 
-- 🎓 **Educación**: Técnico en Desarrollo Web Full Stack con IA Aplicada por **FWD Costa Rica** y Bachiller en Educación Media del **Colegio Técnico Profesional de Puntarenas**.
-- 💡 **Enfoque**: Arquitectura Frontend Moderna, Accesibilidad Web, Código Limpio (*Clean Code*) y flujos de trabajo con Git.
-- 🌱 **En constante aprendizaje**: Ampliando conocimientos en arquitectura full stack, herramientas modernas de software y desarrollo backend.
+-  **Educación**: Técnico en Desarrollo Web Full Stack con IA Aplicada por **FWD Costa Rica** y Bachiller en Educación Media del **Colegio Técnico Profesional de Puntarenas**.
+-  **Enfoque**: Arquitectura Frontend Moderna, Accesibilidad Web, Código Limpio (*Clean Code*) y flujos de trabajo con Git.
+-  **En constante aprendizaje**: Ampliando conocimientos en arquitectura full stack, herramientas modernas de software y desarrollo backend.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 #### **Lenguajes y Desarrollo Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,15 +30,15 @@ Soy **Desarrolladora Web Full Stack Junior** ubicada en Puntarenas, Costa Rica �
 
 ---
 
-### 🌟 Habilidades Blandas
-- 🤝 Liderazgo y Trabajo en Equipo
-- 🗣️ Comunicación Efectiva
-- ⚡ Rápido Aprendizaje y Adaptabilidad
-- 🧩 Resolución de Problemas y Disciplina Técnica
+###  Habilidades Blandas
+-  Liderazgo y Trabajo en Equipo
+-  Comunicación Efectiva
+-  Rápido Aprendizaje y Adaptabilidad
+-  Resolución de Problemas y Disciplina Técnica
 
 ---
 
-### 📬 Contacto
+###  Contacto
 - **Correo Electrónico**: [castilloalanie3@gmail.com](mailto:castilloalanie3@gmail.com)
 - **LinkedIn**: [Alanie Castillo](https://www.linkedin.com/in/alanie-castillo-20b49042b)
 - **GitHub**: [@alaniecastillo27fwd-glitch](https://github.com/alaniecastillo27fwd-glitch)
